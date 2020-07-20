@@ -1,6 +1,6 @@
 import './CocktailDetail.css';
 import React from 'react';
-import {strIngredient} from './Cocktail';
+import { strIngredient } from '../utils';
 
 
 export const CocktailDetail = ({item, onBack=()=>{}}) => {
