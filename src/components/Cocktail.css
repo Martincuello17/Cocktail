@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid gray;
+    border-radius: 4px;
+    display: flex;
+    padding: 8px;
+    margin-bottom: 8px;   
+}
+
+.card img {
+    width: 110px;
+    height: 110px;
+    margin-right: 7px;
+    margin-top: 2px;
+}
